@@ -2,6 +2,7 @@
  Fluid-Based Puzzle Game in Unity
 
 
+
 open project using unity package:
 1. open unity hub
 2. new project -> select "2D (URP)" template -> create project
@@ -11,6 +12,7 @@ open project using unity package:
 6. open "levelSelect" scene and play the game
 
 
+
 open project using Github:
 1. open unity hub
 2. new project -> select "2D (URP)" template -> create project
@@ -18,6 +20,7 @@ open project using Github:
 4. go to top left menu file -> build settings
 5. go to scenes folder and drag and drop all its content into "scenes in build" slot
 6. open "levelSelect" scene and play the game
+
 
 
 how to play:
